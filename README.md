@@ -6,7 +6,7 @@
 
 ## 📋 Table of Contents
 
-- [✨ Features](#-features)
+- ##Features
 - 🛠️ Technology Stack](#-technology-stack)
 - 📁 Project Structure](#-project-structure)
 - 🔗 API Endpoints](#-api-endpoints)
